@@ -1,0 +1,28 @@
+body{
+    background-size: cover;
+}
+
+#heading{
+    width: 100%;
+    font-size: 30px;
+    margin: 0;
+}
+
+#input_box{
+    width: 35%;
+    height: 5%;
+}
+
+#start_btn{
+    font-size: 18px;
+}
+
+#status, #object_detect{
+    font-size: 18px;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+    margin-top: 30px;
+}
